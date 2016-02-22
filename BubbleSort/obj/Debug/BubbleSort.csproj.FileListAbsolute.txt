@@ -1,0 +1,5 @@
+c:\users\firdaus samad\documents\visual studio 2013\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+c:\users\firdaus samad\documents\visual studio 2013\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+c:\users\firdaus samad\documents\visual studio 2013\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+c:\users\firdaus samad\documents\visual studio 2013\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+c:\users\firdaus samad\documents\visual studio 2013\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
